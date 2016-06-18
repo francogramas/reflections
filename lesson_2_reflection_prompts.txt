@@ -24,3 +24,5 @@ En esta area solo se gurdan los archivos modificados en cada versión de trabajo
 How can you use the staging area to make sure you have one commit per logical change?
 
 How do the diagrams help you visualize the branch structure?
+
+Ya estoy en github
